@@ -1,0 +1,35 @@
+
+Deleted - Post ID 103 - attachment - customer1
+Deleted - Post ID 58 - nav_menu_item - 
+Deleted - Post ID 104 - attachment - customer2
+Deleted - Post ID 105 - attachment - customer3
+Deleted - Post ID 206 - attachment - logo1@2x
+Deleted - Post ID 205 - attachment - logo1
+Deleted - Post ID 108 - attachment - customer4
+Deleted - Post ID 207 - attachment - logo1-dark
+Deleted - Post ID 209 - attachment - favicon
+Deleted - Post ID 212 - attachment - demo-screenshot
+Deleted - Post ID 227 -  - 
+Deleted - Post ID 288 - nav_menu_item - Read Articles
+Deleted - Post ID 289 - nav_menu_item - Media Kit
+Complete 
+Batch Process Started..
+Starter Templates - Importing Images for Blog name 'ASAC' (1)
+---- Processing Images from Widgets -----
+Source - http://localhost/wordpress/wp-content/uploads/2020/04/logo1-dark.png
+BATCH - SKIP Image - {from filter} - http://localhost/wordpress/wp-content/uploads/2020/04/logo1-dark.png - Filter name `astra_sites_image_importer_skip_image`.
+Log - {"url":"http:\/\/localhost\/wordpress\/wp-content\/uploads\/2020\/04\/logo1-dark.png","id":"207"}
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing WordPress Posts / Pages - for Elementor ----
+---- Processing MISC ----
+Post ID: 30
+Post ID: 29
+Post ID: 27
+Post ID: 28
+Post ID: 25
+Post ID: 26
+Post ID: 24
+Post ID: 23
+Post ID: 292
+Post ID: 293
+Batch Process Complete!
